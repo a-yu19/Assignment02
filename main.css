@@ -1,0 +1,38 @@
+body {
+	height: 35%;
+	min-width: 340px;
+	margin: auto;
+	top: 50px;
+	left: 0;
+	right: 0;
+	padding: 30px 0;
+	border-radius: 8px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background: #EEE;
+}
+
+#taskTitle{
+	position: relative;
+	padding:  0;
+	width: 55%;
+	background: #fff;
+	border-radius: 3px;
+	display: inline-block;
+    text-align: center;
+	line-height: 30px;
+	
+	
+}
+#taskPriority{
+	position: relative;
+	padding:  0;
+	width: 55%;
+	background: #fff;
+	border-radius: 3px;
+	display: inline-block;
+    text-align: center;
+	line-height: 30px;
+}
